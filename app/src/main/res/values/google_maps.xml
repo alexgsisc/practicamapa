@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    Huellas digitales del certificado:
+    SHA1: 7E:EA:16:60:63:53:FC:CE:D3:62:0E:A6:BC:03:3E:E7:3C:99:93:68
+    SHA256: BC:F2:4D:0F:27:A7:4F:3C:46:C4:49:F7:44:F9:1F:6C:76:AB:2E:C9:69:D5:F1:FC:DB:8A:CD:CB:75:C7:14:D2
+    -->
+    <string name="google_maps_key" formatted="false" translatable="false">AIzaSyBVa2Y0jlb8hK-7hQwBOXShjUDR0Y-q23U</string>
+</resources>
